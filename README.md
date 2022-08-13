@@ -10,3 +10,5 @@
 * `[Header]` - A more customizable header. Can change textHeight and colour (using markup color names).
 * `[Separator]` - Will add a horizontal line to the inspector - useful for separating parts of the inspector.
 * `[ForceInterface]` - Will force a requirement of any specific interface on the referenced object.
+
+See the example scene and example script for implementation.
